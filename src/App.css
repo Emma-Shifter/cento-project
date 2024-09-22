@@ -1,3 +1,4 @@
+/*Изначальные стили*/
 .App {
   text-align: center;
 }
@@ -36,3 +37,6 @@
     transform: rotate(360deg);
   }
 }
+
+/*Стили проекта*/
+
